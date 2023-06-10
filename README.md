@@ -12,7 +12,7 @@
 
 ## Features
 
-🛠 Built with React Material-UI, Github Api, TypeScript
+> 🛠 Built with React Material-UI, Github Api, TypeScript
 
 > 🛠 Test with Jest
 
