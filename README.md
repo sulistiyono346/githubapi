@@ -16,6 +16,10 @@
 
 > 🛠 Test with Jest
 
+> 🛠 CI/CD with Github Action
+
+> 🛠 Url : https://sulistiyono-github-api.netlify.app
+
 ## Additional NPM Scripts
 
 | Script | Description       |
